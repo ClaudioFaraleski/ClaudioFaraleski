@@ -37,7 +37,7 @@ Python        ██████████████████████
 JavaScript    ██████████████                 36.34%
 TypeScript    ███████████                    27.10%
 CSS           ██                             4.97%
-CSS           ▏                             0.97%
+HTML          ▏                             0.97%
 Dockerfile    ▏                             0.07%
 Shell         ▏                             0.05%
 ```
