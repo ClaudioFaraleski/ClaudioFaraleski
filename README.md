@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Cláudio Faraleski</h1>
+  <h1>Cláudio Faraleski Jr </h1>
   <h3>Full-stack Developer | Network Security Specialist</h3>
 </div>
 
