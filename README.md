@@ -60,6 +60,7 @@ Desenvolvedor Full-stack apaixonado por tecnologia com foco em desenvolvimento w
 
 [![Blockchain IBM](https://github-readme-stats.vercel.app/api/pin/?username=ClaudioFaraleski&repo=Projeto-Rede-Blockchain-Ibm&theme=dracula)](https://github.com/ClaudioFaraleski/Projeto-Rede-Blockchain-Ibm)
 [![Calculadora Científica](https://github-readme-stats.vercel.app/api/pin/?username=ClaudioFaraleski&repo=csharpc-Calculadora_Cientifica&theme=dracula)](https://github.com/ClaudioFaraleski/csharpc-Calculadora_Cientifica)
+[![Scripts Python Pentest](https://github-readme-stats.vercel.app/api/pin/?username=ClaudioFaraleski&repo=Scripts_Python_para_Pentest&theme=dracula)](https://github.com/ClaudioFaraleski/Scripts_Python_para_Pentest)
 
 </div>
 
@@ -78,4 +79,5 @@ Desenvolvedor Full-stack apaixonado por tecnologia com foco em desenvolvimento w
 <div align="center">
   <i>🎯 "Sempre construindo. Sempre aprendendo. Sempre avançando."</i>
 </div>
+
 
