@@ -34,7 +34,8 @@ I’m a passionate Full-stack Developer and Network Security Specialist who alwa
 ### 📊 Most Used Languages
 ```text
 TypeScript    ████████████████████████████  67.60%
-JavaScript    ██████████████                26.34%
+JavaScript    ██████████████                36.34%
+Python        ███████████                   27.10%
 CSS           ██                            4.97%
 SCSS          ▏                             0.97%
 Dockerfile    ▏                             0.07%
